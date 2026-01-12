@@ -11,7 +11,7 @@ A small command-line "guess the number" game written in Rust. This is from the b
 - Rust and Cargo (https://rustup.rs)
 
 ## Build & Run
-Build in debug:
 ```bash
 cargo build
+cargo run
 ```
